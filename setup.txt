@@ -1,0 +1,6 @@
+https://3cf9a4d35dc1.ngrok.io
+deleteWebhook
+468902
+https://api.telegram.org/bot{TOKEN}/deleteWebhook
+https://api.telegram.org/bot{TOKEN}/setWebhook?url=https://3988659118d8.ngrok.io
+https://api.telegram.org/bot{TOKEN}/setWebhook?url=https://www.example.com/my-telegram-bot
